@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="_管理器">
+      <UniqueIdentifier>{459e9ea7-64f4-49c7-a709-99385b02f1b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型">
+      <UniqueIdentifier>{7b57d004-21c9-4707-8f17-4e7e88049bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\2.简单工厂模式">
+      <UniqueIdentifier>{0c2c9743-9499-4d79-baed-b62e7421b4ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\1.单例模式">
+      <UniqueIdentifier>{87c00de3-1d41-442c-9ebe-16ff5c598e5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\3.工厂方法模式">
+      <UniqueIdentifier>{ecce16ac-30ad-4a1f-85c0-cf2199297ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\4.抽象工厂模式">
+      <UniqueIdentifier>{872705e8-b307-40f0-96e4-d4f65468e516}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\5.原型模式">
+      <UniqueIdentifier>{31b25e04-b59b-40a5-87a7-66a9cd361a53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0.创建型\6.建造者模式">
+      <UniqueIdentifier>{6d096af5-bcf2-4069-89d2-d93e61143eb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型">
+      <UniqueIdentifier>{f0d36cd9-273f-430e-a120-2bb387013ec0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型">
+      <UniqueIdentifier>{9b82aec5-b81e-4227-becd-67240fe5e3ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\12.享元模式">
+      <UniqueIdentifier>{b5ba2be1-6c51-41ff-a1f7-6d00f4770e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\7.适配器模式">
+      <UniqueIdentifier>{28611f26-0957-4d41-a415-c23554e9d7df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\8.桥接器模式">
+      <UniqueIdentifier>{256bc234-882a-4113-93d0-28fc3fa91eab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\11.外观模式">
+      <UniqueIdentifier>{2efea2af-9898-41da-802b-8c44d3abd264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\13.代理模式">
+      <UniqueIdentifier>{cabdb8b9-3cd6-4f1b-89c0-914e526568c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\9.组合模式">
+      <UniqueIdentifier>{d6f5a601-e1e0-4cdc-934a-c0cf2f664336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.结构型\10.装饰模式">
+      <UniqueIdentifier>{cc805364-6369-4720-b7a7-1414e4c38bc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\14.职责链模式">
+      <UniqueIdentifier>{c8bf5e4c-98d4-497f-a2e0-016bb3fdef91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\21.状态模式">
+      <UniqueIdentifier>{70568049-e776-440d-a3f6-02a3d0355cad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\15.命令模式">
+      <UniqueIdentifier>{3b815ce3-ccbe-4ac9-ab6c-be196a09cacd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\18.中介者模式">
+      <UniqueIdentifier>{a15c61ec-0a29-4000-8af6-001318a1508d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\17.迭代器模式">
+      <UniqueIdentifier>{4ac0dc7f-e1d6-45a8-9c4b-af5d39166229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\16.解释器模式">
+      <UniqueIdentifier>{3221abb1-5b9e-4b09-9c1e-b7916d025314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\22.策略模式">
+      <UniqueIdentifier>{0de1d9b8-cbd1-4bba-a706-6ea5749ecb96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\20.观察者模式">
+      <UniqueIdentifier>{472a3df4-7d2a-49ba-a20b-4fd197a50bbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\19.备忘录模式">
+      <UniqueIdentifier>{dbd6ed77-e19c-40ba-ab57-93a1284873b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\24.访问者模式">
+      <UniqueIdentifier>{250b90c3-2ba2-494e-80b8-29a6af261ba6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.行为型\23.模板方法模式">
+      <UniqueIdentifier>{85fe5cf9-db3e-440a-9a47-0a42ab1bf0a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex.特殊型">
+      <UniqueIdentifier>{91803bea-2112-480a-9c13-a0bd988416e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex.特殊型\PIMPL模式">
+      <UniqueIdentifier>{222c0c78-ef35-4851-a0ff-fe5f289b7855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="命令模式.cpp">
+      <Filter>2.行为型\15.命令模式</Filter>
+    </ClCompile>
+    <ClCompile Include="桥接器模式.cpp">
+      <Filter>1.结构型\8.桥接器模式</Filter>
+    </ClCompile>
+    <ClCompile Include="单例模式.cpp">
+      <Filter>0.创建型\1.单例模式</Filter>
+    </ClCompile>
+    <ClCompile Include="策略模式.cpp">
+      <Filter>2.行为型\22.策略模式</Filter>
+    </ClCompile>
+    <ClCompile Include="组合模式.cpp">
+      <Filter>1.结构型\9.组合模式</Filter>
+    </ClCompile>
+    <ClCompile Include="观察者模式.cpp">
+      <Filter>2.行为型\20.观察者模式</Filter>
+    </ClCompile>
+    <ClCompile Include="原型模式.cpp">
+      <Filter>0.创建型\5.原型模式</Filter>
+    </ClCompile>
+    <ClCompile Include="外观模式.cpp">
+      <Filter>1.结构型\11.外观模式</Filter>
+    </ClCompile>
+    <ClCompile Include="简单工厂模式.cpp">
+      <Filter>0.创建型\2.简单工厂模式</Filter>
+    </ClCompile>
+    <ClCompile Include="抽象工厂模式.cpp">
+      <Filter>0.创建型\4.抽象工厂模式</Filter>
+    </ClCompile>
+    <ClCompile Include="工厂方法模式.cpp">
+      <Filter>0.创建型\3.工厂方法模式</Filter>
+    </ClCompile>
+    <ClCompile Include="建造者模式.cpp">
+      <Filter>0.创建型\6.建造者模式</Filter>
+    </ClCompile>
+    <ClCompile Include="职责链模式.cpp">
+      <Filter>2.行为型\14.职责链模式</Filter>
+    </ClCompile>
+    <ClCompile Include="装饰模式.cpp">
+      <Filter>1.结构型\10.装饰模式</Filter>
+    </ClCompile>
+    <ClCompile Include="状态模式.cpp">
+      <Filter>2.行为型\21.状态模式</Filter>
+    </ClCompile>
+    <ClCompile Include="代理模式.cpp">
+      <Filter>1.结构型\13.代理模式</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器模式.cpp">
+      <Filter>1.结构型\7.适配器模式</Filter>
+    </ClCompile>
+    <ClCompile Include="享元模式.cpp">
+      <Filter>1.结构型\12.享元模式</Filter>
+    </ClCompile>
+    <ClCompile Include="设计模式管理器.cpp">
+      <Filter>_管理器</Filter>
+    </ClCompile>
+    <ClCompile Include="设计模式基类.cpp">
+      <Filter>_管理器</Filter>
+    </ClCompile>
+    <ClCompile Include="解释器模式.cpp">
+      <Filter>2.行为型\16.解释器模式</Filter>
+    </ClCompile>
+    <ClCompile Include="设计模式_主.cpp" />
+    <ClCompile Include="迭代器模式.cpp">
+      <Filter>2.行为型\17.迭代器模式</Filter>
+    </ClCompile>
+    <ClCompile Include="中介者模式.cpp">
+      <Filter>2.行为型\18.中介者模式</Filter>
+    </ClCompile>
+    <ClCompile Include="备忘录模式.cpp">
+      <Filter>2.行为型\19.备忘录模式</Filter>
+    </ClCompile>
+    <ClCompile Include="模板方法模式.cpp">
+      <Filter>2.行为型\23.模板方法模式</Filter>
+    </ClCompile>
+    <ClCompile Include="访问者模式.cpp">
+      <Filter>2.行为型\24.访问者模式</Filter>
+    </ClCompile>
+    <ClCompile Include="PIMPL模式.cpp">
+      <Filter>Ex.特殊型\PIMPL模式</Filter>
+    </ClCompile>
+    <ClCompile Include="CPLMPL.cpp">
+      <Filter>Ex.特殊型\PIMPL模式</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="桥接器模式.h">
+      <Filter>1.结构型\8.桥接器模式</Filter>
+    </ClInclude>
+    <ClInclude Include="单例模式.h">
+      <Filter>0.创建型\1.单例模式</Filter>
+    </ClInclude>
+    <ClInclude Include="命令模式.h">
+      <Filter>2.行为型\15.命令模式</Filter>
+    </ClInclude>
+    <ClInclude Include="策略模式.h">
+      <Filter>2.行为型\22.策略模式</Filter>
+    </ClInclude>
+    <ClInclude Include="组合模式.h">
+      <Filter>1.结构型\9.组合模式</Filter>
+    </ClInclude>
+    <ClInclude Include="观察者模式.h">
+      <Filter>2.行为型\20.观察者模式</Filter>
+    </ClInclude>
+    <ClInclude Include="原型模式.h">
+      <Filter>0.创建型\5.原型模式</Filter>
+    </ClInclude>
+    <ClInclude Include="外观模式.h">
+      <Filter>1.结构型\11.外观模式</Filter>
+    </ClInclude>
+    <ClInclude Include="简单工厂模式.h">
+      <Filter>0.创建型\2.简单工厂模式</Filter>
+    </ClInclude>
+    <ClInclude Include="抽象工厂模式.h">
+      <Filter>0.创建型\4.抽象工厂模式</Filter>
+    </ClInclude>
+    <ClInclude Include="工厂方法模式.h">
+      <Filter>0.创建型\3.工厂方法模式</Filter>
+    </ClInclude>
+    <ClInclude Include="建造者模式.h">
+      <Filter>0.创建型\6.建造者模式</Filter>
+    </ClInclude>
+    <ClInclude Include="职责链模式.h">
+      <Filter>2.行为型\14.职责链模式</Filter>
+    </ClInclude>
+    <ClInclude Include="装饰模式.h">
+      <Filter>1.结构型\10.装饰模式</Filter>
+    </ClInclude>
+    <ClInclude Include="状态模式.h">
+      <Filter>2.行为型\21.状态模式</Filter>
+    </ClInclude>
+    <ClInclude Include="代理模式.h">
+      <Filter>1.结构型\13.代理模式</Filter>
+    </ClInclude>
+    <ClInclude Include="适配器模式.h">
+      <Filter>1.结构型\7.适配器模式</Filter>
+    </ClInclude>
+    <ClInclude Include="享元模式.h">
+      <Filter>1.结构型\12.享元模式</Filter>
+    </ClInclude>
+    <ClInclude Include="设计模式基类.h">
+      <Filter>_管理器</Filter>
+    </ClInclude>
+    <ClInclude Include="设计模式管理器.h">
+      <Filter>_管理器</Filter>
+    </ClInclude>
+    <ClInclude Include="解释器模式.h">
+      <Filter>2.行为型\16.解释器模式</Filter>
+    </ClInclude>
+    <ClInclude Include="迭代器模式.h">
+      <Filter>2.行为型\17.迭代器模式</Filter>
+    </ClInclude>
+    <ClInclude Include="中介者模式.h">
+      <Filter>2.行为型\18.中介者模式</Filter>
+    </ClInclude>
+    <ClInclude Include="备忘录模式.h">
+      <Filter>2.行为型\19.备忘录模式</Filter>
+    </ClInclude>
+    <ClInclude Include="模板方法模式.h">
+      <Filter>2.行为型\23.模板方法模式</Filter>
+    </ClInclude>
+    <ClInclude Include="访问者模式.h">
+      <Filter>2.行为型\24.访问者模式</Filter>
+    </ClInclude>
+    <ClInclude Include="PIMPL模式.h">
+      <Filter>Ex.特殊型\PIMPL模式</Filter>
+    </ClInclude>
+    <ClInclude Include="CPLMPL.h">
+      <Filter>Ex.特殊型\PIMPL模式</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
