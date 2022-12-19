@@ -66,7 +66,7 @@ public:
 		return m_flyWeights.size();
 	}
 private: //定义享元池用于存储多个具体享元对象
-	map<int,FlyWeight*> m_flyWeights;//很多时候为了增加效率，使用hash表之类的结构，这里简单的使用vector，
+	map<int,FlyWeight*> m_flyWeights;//很多时候为了增加效率，使用hash表之类的结构，这里简单的使用map，
 
 };
 
